@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @toprakkis
-- 👀 I’m interested in machine learning and back-end development
-- 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on fun data science projects
+- 👋 Hi, I’m Toprak Kis
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on Web Development projects
 - 📫 How to reach me etoprakkis@gmail.com
 
 <!---
