@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Deep Learning Applications**
 
-- 🤝 I’m looking for help with **advanced Machine Learning Methods**
+- 🤝 I’m looking for help with **Advanced Machine Learning Methods**
 
 - 👨‍💻 All of my projects are available at [https://github.com/toprakkis](https://github.com/toprakkis)
 
