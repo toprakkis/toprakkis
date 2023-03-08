@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toprakkis" alt="toprakkis" /></a> </p>
 
-- 🔭 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **Tensorflow, OpenCV, C++ and C#**
 
-- 🌱 I’m currently learning **Tensorflow, OpenCV, C++**
+- 👯 I’m looking to collaborate on **Deep Learning and Computer Vision Applications**
 
-- 👯 I’m looking to collaborate on **Deep Learning Applications**
-
-- 🤝 I’m looking for help with **Advanced Machine Learning Methods**
+- 🤝 I’m looking for help with **Advanced Machine Learning Methods and Computer Vision Methods**
 
 - 👨‍💻 All of my projects are available at [https://github.com/toprakkis](https://github.com/toprakkis)
 
