@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toprakkis" alt="toprakkis" /></a> </p>
 
-- 🌱 I’m currently learning **Tensorflow, OpenCV, C++ and C#**
+- 🌱 I’m currently learning **Tensorflow, OpenCV, C++**
 
 - 👯 I’m looking to collaborate on **Deep Learning and Computer Vision Applications**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/toprakkis](https://github.com/toprakkis)
 
-- 💬 Ask me about **Visual Recognition**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **etoprakkis@gmail.com**
 
